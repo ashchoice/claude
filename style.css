@@ -69,8 +69,8 @@ body {
 }
 
 .step-name {
-  font-family: 'Oswald', sans-serif;
-  font-size: 15px;
+  font-family: 'Playfair Display SC', serif;
+  font-size: 20px;
   font-weight: 600;
   letter-spacing: 1.5px;
   margin-bottom: 10px;
@@ -78,7 +78,7 @@ body {
 }
 
 .step-desc {
-  font-size: 14px;
+  font-size: 15px;
   color: rgba(255, 255, 255, 0.6);
   line-height: 1.6;
   max-width: 220px;
